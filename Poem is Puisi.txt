@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Bertudung langit selalu biru
 Tempat cahaya selalu benderang
 Tempat awan selalu putih
@@ -12,6 +13,8 @@ Ku siap hadapi SPARTA
 =======
 Ku siap hadapi SPARTA
 
+=======
+>>>>>>> 7e4020dd203a42d8632a45a503a7c5fa729cb202
 Ketika senja datang
 Disambut hangatnya pelukan
 Oleh gulungan ombak
