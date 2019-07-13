@@ -7,4 +7,23 @@ Tempat angin selalu nikmat
 Disanalah ku berdiri
 Menyambut datangnya hari
 Tutup mata tundukkan kepala
+<<<<<<< HEAD
 Ku siap hadapi SPARTA
+=======
+Ku siap hadapi SPARTA
+
+Ketika senja datang
+Disambut hangatnya pelukan
+Oleh gulungan ombak
+Kepada pasir lembut yang terbentang
+
+Ku diam sendiri
+Nyiur pun hanya menyinyir
+Menjadi saksi bisu
+Perenunganku menyambut gelap
+
+Dan mentari pun terbenam
+Tenggelam dalam samudera manusia
+Berganti dengan indahnya rembulan
+Tersipu malu diantara awan
+>>>>>>> 940728359461b5b617b158d54c3e5e8a4f6ed204
