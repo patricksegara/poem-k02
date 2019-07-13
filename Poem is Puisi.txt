@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+Bertudung langit selalu biru
+Tempat cahaya selalu benderang
+Tempat awan selalu putih
+Tempat cuaca selalu badai
+Tempat udara selalu bersih
+Tempat angin selalu nikmat
+Disanalah ku berdiri
+Menyambut datangnya hari
+Tutup mata tundukkan kepala
+<<<<<<< HEAD
+Ku siap hadapi SPARTA
+=======
+Ku siap hadapi SPARTA
+
+=======
+>>>>>>> 7e4020dd203a42d8632a45a503a7c5fa729cb202
 Ketika senja datang
 Disambut hangatnya pelukan
 Oleh gulungan ombak
@@ -12,3 +29,4 @@ Dan mentari pun terbenam
 Tenggelam dalam samudera manusia
 Berganti dengan indahnya rembulan
 Tersipu malu diantara awan
+>>>>>>> 940728359461b5b617b158d54c3e5e8a4f6ed204
